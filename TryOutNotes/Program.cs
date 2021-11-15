@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharpEssential_LinkedIn
+namespace TryOutNotes
 {
     internal class Program
     {
