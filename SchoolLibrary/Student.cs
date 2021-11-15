@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace SchoolLibrary
 {
-    internal class Student
+    internal class Student : Person
     {
+        //Constructor (ctor tab tab)
+        public Student()
+        {
+
+        }
     }
 }
